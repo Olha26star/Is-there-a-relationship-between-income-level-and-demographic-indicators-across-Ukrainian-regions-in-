@@ -15,11 +15,11 @@ Collect and prepare statistical data; analyze birth and mortality rates across r
 ## Data Used
 The project uses official statistical data for 2020 and 2021 on population, birth rates, mortality rates, and average salaries across Ukrainian regions.
 
-Section: Analysis of Demographic Rates and Regional Differences
+## Section: Analysis of Demographic Rates and Regional Differences
 
 A comparative analysis of demographic indicators for 2020 and 2021 shows a significant deterioration in Ukraine’s natural population growth. Two interconnected trends can be observed across all regions of the country:
 
-an increase in the Death Rate;
+an increase in the Death Rate;<br>
 a decrease in the Birth Rate.
 
 The combination of these factors indicates an acceleration of population decline.
