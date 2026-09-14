@@ -28,7 +28,8 @@ The combination of these factors indicates an acceleration of population decline
 <img width="621" height="152" alt="image" src="https://github.com/user-attachments/assets/f086c417-2259-4df3-b5b0-0d50cddfd767" />
 
 To assess the demographic situation, the Natural Population Growth Rate was calculated:
-<img width="683" height="91" alt="image" src="https://github.com/user-attachments/assets/d1d6d99c-ac80-4ab8-92eb-19023928533c" />
+
+               ##Natural Population Growth Rate = (Births − Deaths) / Population × 1,000
 
 The Birth Rate decreased in 2021 compared with 2020 in every region of Ukraine.
 The average decline was −0.48 points, as confirmed by the KPI displayed on the dashboard.
