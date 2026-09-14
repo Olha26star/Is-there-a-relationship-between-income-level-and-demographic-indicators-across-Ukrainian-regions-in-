@@ -49,7 +49,7 @@ This indicates that the deterioration of the demographic situation was driven no
 
 ## Section: Analysis of the Relationship Between Income and Demographic Indicators
 To test the hypothesis that income levels may influence demographic indicators, a correlation analysis was conducted.
-<img width="937" height="272" alt="image" src="https://github.com/user-attachments/assets/d0356b2c-aa25-4798-b7e9-6789c1d9080e" />
+<img width="937" height="272" alt="image" src="https://github.com/user-attachments/assets/d0356b2c-aa25-4798-b7e9-6789c1d9080e" /><br>
 The results show that no strong linear relationship was found between average salary levels and demographic indicators.
 
 Regions with higher income levels do not necessarily have higher birth rates or lower mortality rates.
