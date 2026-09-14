@@ -1,4 +1,6 @@
 ## Project Overview
+<img width="811" height="170" alt="image" src="https://github.com/user-attachments/assets/f852fe21-6356-4b42-9cbb-2d05f2aa72bf" />
+
 The objective of the project is to analyze the demographic situation across Ukrainian regions and identify a potential relationship between income levels and demographic indicators, particularly birth rates, mortality rates, and natural population growth.
 
 ## Object of Research
